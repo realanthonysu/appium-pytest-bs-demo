@@ -1,0 +1,3 @@
+user: "YOUR_BROWSERSTACK_USERNAME"
+key: "YOUR_BROWSERSTACK_ACCESS_KEY"
+app_url: "bs://<hashed_app_id>" # 上传 App 到 BrowserStack 后获取
